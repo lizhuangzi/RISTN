@@ -1,18 +1,17 @@
-# RISTN
-Residual Invertible Spatio-Temporal Network (RISTN) For Video Super-Resolution.
+# Residual Invertible Spatio-Temporal Network (RISTN) For Video Super-Resolution.
 
 AAAI-2019 poster, we provide code and model architecture for testing. But the code is not polished yet.
 
-##The architecture of our network:
+## The architecture of our network:
 
 ![Image text](https://github.com/lizhuangzi/RISTN/raw/master/screenshots/RISTN.png)
 
-##The architecture of our RDC-LSTM:
+## The architecture of our RDC-LSTM:
 
-![Image text](http://github.com/lizhuangzi/RISTN/raw/master/screenshots/RDCLSTM.png)
+![Image text](https://github.com/lizhuangzi/RISTN/raw/master/screenshots/RDCLSTM.png)
 
 
-Dependence:
+## Dependence:
 
 python 2.7
 
@@ -24,6 +23,8 @@ torchvision 0.2.0
 
 
 you can run: python Testout2.py for testing.
+
+## Cite our paper:
 
 You can cite as:
 Xiaobin Zhu, Zhuangzi Li, Xiao-Yu Zhang, Changsheng Li, Yaqi Liu, Ziyu Xue. Residual Invertible Network for Video Super-Resolution. [C]//AAAI. 2019.
