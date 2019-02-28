@@ -3,13 +3,13 @@ Residual Invertible Spatio-Temporal Network (RISTN) For Video Super-Resolution.
 
 AAAI-2019 poster, we provide code and model architecture for testing. But the code is not polished yet.
 
-The architecture of our network:
+##The architecture of our network:
 
 ![Image text](https://github.com/lizhuangzi/RISTN/raw/master/screenshots/RISTN.png)
 
-The architecture of our RDC-LSTM:
+##The architecture of our RDC-LSTM:
 
-![Image text](http://github.com/lizhuangzi/RISTN/tree/master/screenshots/RDCLSTM.png)
+![Image text](http://github.com/lizhuangzi/RISTN/raw/master/screenshots/RDCLSTM.png)
 
 
 Dependence:
