@@ -7,6 +7,7 @@ The architecture of our network:
 
 ![framework](http://github.com/lizhuangzi/RISTN/tree/master/screenshots/RISTN.png)
 
+http://github.com/lizhuangzi/RISTN/tree/master/screenshots/RDCLSTM.png
 
 The architecture of our RDC-LSTM:
 
