@@ -23,7 +23,7 @@ torchvision 0.2.0
 
 model file: https://pan.baidu.com/s/1DNvFwdjmpfzm-ZrCqID9Sw   extrat code: aky3
 
-you can run: python Testout2.py for testing.
+The directory "Vid4Result" is our output results for Vid4 dataset. you also can run: python Testout2.py for testing.
 
 ## Cite our paper:
 
