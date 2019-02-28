@@ -5,11 +5,11 @@ AAAI-2019 poster, we provide code and model architecture for testing. But the co
 
 The architecture of our network:
 
-![](http://github.com/lizhuangzi/RISTN/raw/master/screenshots/RISTN.png)
+![Image text](https://github.com/lizhuangzi/RISTN/raw/master/screenshots/RISTN.png)
 
 The architecture of our RDC-LSTM:
 
-![RDCLSTM](http://github.com/lizhuangzi/RISTN/tree/master/screenshots/RDCLSTM.png)
+![Image text](http://github.com/lizhuangzi/RISTN/tree/master/screenshots/RDCLSTM.png)
 
 
 Dependence:
