@@ -4,6 +4,10 @@ This is AAAI 2019 poster paper, we provide code and model architecture for testi
 
 Offical paper link:  Please wait.
 
+## abstract
+
+Video super-resolution is a challenging task, which has at- tracted great attention in research and industry communi- ties. In this paper, we propose a novel end-to-end archi- tecture, called Residual Invertible Spatio-Temporal Network (RISTN) for video super-resolution. The RISTN can suffi- ciently exploit the spatial information from low-resolution to high-resolution, and effectively models the temporal con- sistency from consecutive video frames. Compared with ex- isting recurrent convolutional network based approaches, RISTN is much deeper but more efficient. It consists of three major components: In the spatial component, a lightweight residual invertible block is designed to reduce information loss during feature transformation and provide robust feature representations. In the temporal component, a novel recurrent convolutional model with residual dense connections is pro- posed to construct deeper network and avoid feature degrada- tion. In the reconstruction component, a new fusion method based on the sparse strategy is proposed to integrate the spa- tial and temporal features. Experiments on public benchmark datasets demonstrate that RISTN outperforms the state-of- the-art methods.
+
 ## The architecture of our network:
 
 ![Image text](https://github.com/lizhuangzi/RISTN/raw/master/screenshots/RISTN.png)
