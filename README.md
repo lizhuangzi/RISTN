@@ -34,7 +34,7 @@ The directory "Vid4Result" is our output results for Vid4 dataset. you also can 
 ## Cite our paper:
 
 You can cite as:
-Xiaobin Zhu, Zhuangzi Li, Xiao-Yu Zhang, Changsheng Li, Yaqi Liu, Ziyu Xue. Residual Invertible Network for Video Super-Resolution. [C]//AAAI. 2019.
+Zhu X, Li Z, Zhang XY, Li C, Liu Y, Xue Z. Residual Invertible Network for Video Super-Resolution[C]//Thirty-Third AAAI Conference on Artificial Intelligence. 2019.
 
 or cite by bib:
 
