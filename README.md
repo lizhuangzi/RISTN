@@ -2,7 +2,7 @@
 
 This is AAAI 2019 poster paper, we provide code and model architecture for testing. But the code is not polished yet.
 
-Offical paper link:  https://www.aaai.org/ojs/index.php/AAAI/article/view/4550
+Our paper link:  https://www.aaai.org/ojs/index.php/AAAI/article/view/4550
 
 ## Abstract
 
